@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "77CFF1B9-3712-4A57-80C7-FFFDC85F568D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YoussefMahrez/HomeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "HomeController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1 - 6bd6f6e6f8c58184"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoussefMahrez.HomeController.searchBar.getter : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "YoussefMahrez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-mini-2021/Desktop/YoussefMahrez/YoussefMahrez/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1 - 1d91251a6f01ddb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoussefMahrez.HomeController.searchBar.setter : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "YoussefMahrez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-mini-2021/Desktop/YoussefMahrez/YoussefMahrez/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1 - c377261f02b86378"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoussefMahrez.HomeController.searchBar.modify : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "YoussefMahrez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-mini-2021/Desktop/YoussefMahrez/YoussefMahrez/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1 - 977fce447682e38c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoussefMahrez.HomeController.searchBar.modify : Swift.Optional&lt;__C.UISearchBar&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "YoussefMahrez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-mini-2021/Desktop/YoussefMahrez/YoussefMahrez/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1 - 19106f20f9088941"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoussefMahrez.HomeController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; YoussefMahrez.HomeController"
+                  moduleName = "YoussefMahrez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-mini-2021/Desktop/YoussefMahrez/YoussefMahrez/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "643">
+               </Location>
+               <Location
+                  uuid = "2BCA3485-CCB4-4F7C-A779-D45522124EC1 - 15b3d8fc34d71fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YoussefMahrez.HomeController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;YoussefMahrez.HomeController&gt;"
+                  moduleName = "YoussefMahrez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac-mini-2021/Desktop/YoussefMahrez/YoussefMahrez/HomeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "591">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

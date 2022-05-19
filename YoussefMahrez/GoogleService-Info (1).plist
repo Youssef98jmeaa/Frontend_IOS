@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973657813063-ra281dipma9dnrchtrh8kdvl7ssn6jjr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973657813063-ra281dipma9dnrchtrh8kdvl7ssn6jjr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBq1713MkFMcfnU3yEYN7qbtEA_sYLU0zo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973657813063</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>esprit.tn.YoussefMahrez</string>
+	<key>PROJECT_ID</key>
+	<string>affariet-storage-1d1aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>affariet-storage-1d1aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973657813063:ios:ae508d34172bc89067c162</string>
+</dict>
+</plist>
